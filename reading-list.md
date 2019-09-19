@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 质量保障
+subtitle: 品质推荐
 layout: "page"
 icon: fa-book
 order: 3
